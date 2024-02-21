@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @SergioSilva75
+- 👀 I’m interested in Python and data science
+- 🌱 I’m currently learning data science
+- 💞️ I’m looking to collaborate on Python code´s
